@@ -24,7 +24,7 @@
 Solutions are organized by topic folder, then problem ID. Each submission is stored as a separate file:
 
 
-```
+
 
 **Example:**
 ```
@@ -33,6 +33,3 @@ Data Structures & Algorithms/binary-search/submission-0.ts
 Python For Beginners/python-hello-world/submission-0.py
 ```
 
----
-
----
